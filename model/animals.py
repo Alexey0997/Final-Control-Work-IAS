@@ -1,4 +1,4 @@
-"""Модуль, реализующий родительский класс Animals."""
+"""Модуль реализует родительский класс Animals."""
 from abc import ABC, abstractmethod
 
 
